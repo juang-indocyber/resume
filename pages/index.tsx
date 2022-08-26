@@ -107,7 +107,7 @@ const Home: NextPage<IHomeProps> = ({ jobs, projects, skills }) => {
   return (
     <div>
       <Head>
-        <title>Himanshu Kashyap</title>
+        <title>Juang Sabit Al Nadiev</title>
         <meta
           name="keywords"
           content="himan_kash, himanshu, kashyap, himanshu kashyap, iamhiman, lpu, dehradun, software developer, web developer"
