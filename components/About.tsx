@@ -8,7 +8,7 @@ export const About: NextPage = () => {
   return (
     <>
       <div className="about_left">
-        <h1 className="about_left_head">Hi, I&apos;m Juang Sabit Al Nadiev</h1>
+        <h1 className="about_left_head">Hi, Im Juang Sabit Al Nadiev</h1>
         <p className="about_left_text">
         Hi everyone! I would like to introduce myself. My name is Juang Sabit Al Nadiev. My nickname is Juang. I am from Tegal, but now I live in Jakarta. I'm Software Engineer. I was passionate about Technology because Technology is best when it brings people together.
         </p>
